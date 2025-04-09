@@ -1,7 +1,3 @@
-print("welcome")
-def greet(name):
-    print("Hello,", name)
+print("welcome to new version" )
 
-greet("Alice")
-greet("Bob")
 
